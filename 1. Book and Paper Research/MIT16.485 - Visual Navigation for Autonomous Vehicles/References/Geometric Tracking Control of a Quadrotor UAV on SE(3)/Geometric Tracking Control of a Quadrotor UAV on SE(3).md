@@ -222,8 +222,8 @@ The desired thrust direction fixes $b_{3d}$. Once $b_{3d}$ is chosen, the quadro
 
 But $b_{1d}$ might not already be perpendicular to $b_{3d}$. The controller therefore projects it onto the plane normal to $b_{3d}$.
 
-| ![[attachments/lele-mc-2010-heading-projection.png]] |
-| :-----------------------------------------------------: |
+|                                  ![[lele-mc-2010-heading.png]]                                  |
+| :---------------------------------------------------------------------------------------------: |
 | Figure 2: Desired heading is obtained by projecting $b_{1d}$ onto the plane normal to $b_{3d}$. |
 
 > [!warning]
@@ -506,12 +506,12 @@ This gives the controller an almost-global region of attraction on $SO(3)$.
 
 ### Stability vocabulary
 
-| Term | Meaning in this paper |
-| --- | --- |
-| Exponential stability | Errors decay exponentially and the decay bound scales with the initial error |
+| Term                       | Meaning in this paper                                                                      |
+| -------------------------- | ------------------------------------------------------------------------------------------ |
+| Exponential stability      | Errors decay exponentially and the decay bound scales with the initial error               |
 | Exponential attractiveness | Errors still decay exponentially after entering a suitable region, but the bound is weaker |
-| Almost global | All initial attitudes except a lower-dimensional set of problematic critical attitudes |
-| Critical attitude | A point where the attitude error gradient vanishes even though the attitude is not correct |
+| Almost global              | All initial attitudes except a lower-dimensional set of problematic critical attitudes     |
+| Critical attitude          | A point where the attitude error gradient vanishes even though the attitude is not correct |
 
 The non-identity critical attitudes are rotations of $180^\circ$:
 
@@ -627,8 +627,8 @@ $$
 
 The initial attitude error satisfies the stronger $\Psi<1$ region, so Proposition 2 guarantees exponential stability of the complete tracking errors.
 
-| ![[attachments/lele-mc-2010-elliptic-helix-snapshots.png]] |
-| :---------------------------------------------------------------: |
+|                                            ![[lele-mc-2010-elliptic-helix.png]]                                             |
+| :-------------------------------------------------------------------------------------------------------------------------: |
 | Figure 3: Snapshots from the elliptic helix maneuver, showing large attitude changes along a nontrivial spatial trajectory. |
 
 This example shows that the controller can track a trajectory requiring both translation and substantial rotation. A local hover-based linear controller would be much less natural for this case.
@@ -665,8 +665,8 @@ $$
 
 This is outside the $\Psi<1$ region needed for Proposition 2, but still inside $\Psi<2$. The attitude error decreases first. In the simulation, $\Psi$ becomes less than $1$ at about $0.88$ seconds, after which the complete tracking errors converge.
 
-| ![[attachments/lele-mc-2010-upside-down-recovery.png]] |
-| :----------------------------------------------------------: |
+|                                                     ![[lele-mc-2010-upside-down.png]]                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
 | Figure 4: Snapshots from the recovery maneuver, where the quadrotor begins almost upside down and returns to the commanded hover attitude. |
 
 > [!summary]
