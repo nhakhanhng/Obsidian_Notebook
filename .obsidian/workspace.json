@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Book and Paper Research/AutoSAR/BSW Stack/UDS.md",
+                "file": "1. Book and Paper Research/C++/cpp_oop_memory_smart_pointer_algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UDS"
+              "title": "cpp_oop_memory_smart_pointer_algorithms"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "4d37c68dd235402b",
   "lastOpenFiles": [
+    "1. Book and Paper Research/AutoSAR/BSW Stack/UDS.md",
+    "1. Book and Paper Research/C++/cpp_oop_memory_smart_pointer_algorithms.md",
+    "1. Book and Paper Research/C++",
+    "1. Book and Paper Research/New folder",
     "1. Book and Paper Research/AutoSAR/BSW Stack/Diagnostic Stack.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/DCM sub module interaction.jpg",
     "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/18c6ee81-3394-47c0-8667-6fb8192be0cf.jpg",
@@ -217,8 +221,6 @@
     "Untitled.canvas",
     "2026-07-20.md",
     "Untitled.base",
-    "1. Book and Paper Research/Resource Input/Visual Navigation for Autonomous Vehicles/06-Control1-notes.pdf",
-    "1. Book and Paper Research/Resource Input/04-05-LieGroups-notes.pdf",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 3 - Lie Group and Lie Algebra.md",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 6 - Visual Odometry Part I.md",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 4 - Cameras and Images.md",
@@ -229,7 +231,6 @@
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 11 - Dense Reconstruction.md",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 12 - Practice Stereo Visual Odometry.md",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 13 - Discussions and Outlook.md",
-    "1. Book and Paper Research/book_intro_to_vslam/Chapter 5 - Nonlinear Optimization.md",
-    "1. Book and Paper Research/book_intro_to_vslam/Chapter 7 - Visual Odometry Part II.md"
+    "1. Book and Paper Research/book_intro_to_vslam/Chapter 5 - Nonlinear Optimization.md"
   ]
 }
