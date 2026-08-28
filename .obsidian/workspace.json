@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb5dffd08d3390db",
+            "id": "4d37c68dd235402b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Book and Paper Research/AutoSAR/BSW Stack/CanTP.md",
+                "file": "1. Book and Paper Research/AutoSAR/BSW Stack/UDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CanTP"
+              "title": "UDS"
             }
           }
         ]
@@ -183,18 +183,21 @@
       "translate:Open translation view": false
     }
   },
-  "active": "bb5dffd08d3390db",
+  "active": "4d37c68dd235402b",
   "lastOpenFiles": [
-    "1. Book and Paper Research/AutoSAR/BSW Stack/ComStack.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack/Diagnostic Stack.md",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/ComStack-in-BSW.png",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP Flow.png",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/DCM sub module interaction.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/18c6ee81-3394-47c0-8667-6fb8192be0cf.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Diagnostic Stack Modules.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Diagnostic Stack path.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Diagnostic Stack Services Modules.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/daa5c11e-7afa-46f2-800c-a411555f355a.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/11a2d1ae-0d9a-4417-8e15-a37b1f9f6298.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/a7aa53ac-e188-4b38-809c-fd04c7278044.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/73d0a0c5-1ae3-4770-86e9-b42c05fbfa26.jpg",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/ComStack.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack/CanTP.md",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP FC Frame Format.png",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP CF Format.png",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP FF Format.png",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP SF format.png",
-    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/Can-TP_Frame.png",
+    "1. Book and Paper Research/AutoSAR/BSW Stack/attachments/ComStack-in-BSW.png",
     "1. Book and Paper Research/book_intro_to_vslam/Chapter 2 - 3D Rigid Body Motion.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack/BSW.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack/attachments",
@@ -207,11 +210,8 @@
     "README.md",
     "1. Book and Paper Research/AutoSAR/BSW Stack",
     "1. Book and Paper Research/AutoSAR",
-    "1. Book and Paper Research/MIT16.485 - Visual Navigation for Autonomous Vehicles/References/Geometric Tracking Control of a Quadrotor UAV on SE(3)/attachments/lele-mc-2010-quadrotor-model.png",
     "1. Book and Paper Research/MIT16.485 - Visual Navigation for Autonomous Vehicles/References/Geometric Tracking Control of a Quadrotor UAV on SE(3)/Geometric Tracking Control of a Quadrotor UAV on SE(3).md",
     "1. Book and Paper Research/Resource Input/Visual Navigation for Autonomous Vehicles/References/LeLeMc2010_quadrotor.pdf",
-    "1. Book and Paper Research/MIT16.485 - Visual Navigation for Autonomous Vehicles/References/Geometric Tracking Control of a Quadrotor UAV on SE(3)/attachments/lele-mc-2010-upside-down.png",
-    "1. Book and Paper Research/MIT16.485 - Visual Navigation for Autonomous Vehicles/References/Geometric Tracking Control of a Quadrotor UAV on SE(3)/attachments/lele-mc-2010-elliptic-helix.png",
     "1. Book and Paper Research/Resource Input/slambook-en.pdf",
     "1. Book and Paper Research/MIT16.485 - Visual Navigation for Autonomous Vehicles/Lecture 6 - Quadrotor Model.md",
     "Untitled.canvas",
